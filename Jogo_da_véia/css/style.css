@@ -140,6 +140,9 @@ button:hover {
 
 p {
     font-size: 5rem;
+    color: white;
 }
 
-
+.show-winner-message {
+    display: flex;
+}
